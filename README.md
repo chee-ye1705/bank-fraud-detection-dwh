@@ -74,6 +74,5 @@ CALL detect_transactions(1001);
 ---
 
 ## 👤 Author
-- **Trịnh Hà Linh Chi** (Hanoi University of Science and Technology - HUST)
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn]
+- **Linh Chi** (Hanoi University of Science and Technology - HUST)
+- Email: [thlchi071005@gmail.com]
