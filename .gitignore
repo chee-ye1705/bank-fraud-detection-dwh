@@ -1,0 +1,16 @@
+# Large Data Dumps
+*.pbix
+*.dump
+*.tar.gz
+*.zip
+large_data/
+transactions_data.sql
+ref_tables_data.sql
+customer_behavior_daily.sql
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
